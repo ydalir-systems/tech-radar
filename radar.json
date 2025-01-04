@@ -1,0 +1,268 @@
+[
+  {
+    "name": "Spring Boot",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Java framework for application development"
+  },
+  {
+    "name": "Testcontainers",
+    "ring": "adopt",
+    "quadrant": "products and tools",
+    "isNew": "TRUE",
+    "description": "Library for integration tests with real dependencies"
+  },
+  {
+    "name": "Redis",
+    "ring": "adopt",
+    "quadrant": "datastores",
+    "isNew": "FALSE",
+    "description": "In-memory data structure store"
+  },
+  {
+    "name": "Kafka",
+    "ring": "adopt",
+    "quadrant": "infrastructure",
+    "isNew": "FALSE",
+    "description": "Distributed event streaming platform"
+  },
+  {
+    "name": "Next.js",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "React framework for SSR"
+  },
+  {
+    "name": "React",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Standard for building UIs"
+  },
+  {
+    "name": "Protobuf",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Binary serialization format"
+  },
+  {
+    "name": "gRPC",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Universal RPC framework"
+  },
+  {
+    "name": "ELK",
+    "ring": "adopt",
+    "quadrant": "products and tools",
+    "isNew": "FALSE",
+    "description": "Log and analytics platform"
+  },
+  {
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Versatile programming language"
+  },
+  {
+    "name": "FastAPI",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Python web framework for APIs"
+  },
+  {
+    "name": "Flutter",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Cross-platform mobile framework"
+  },
+  {
+    "name": "AWS EKS",
+    "ring": "adopt",
+    "quadrant": "infrastructure",
+    "isNew": "FALSE",
+    "description": "Managed Kubernetes service"
+  },
+  {
+    "name": "AWS S3",
+    "ring": "adopt",
+    "quadrant": "infrastructure",
+    "isNew": "FALSE",
+    "description": "Object storage service"
+  },
+  {
+    "name": "Postgres",
+    "ring": "adopt",
+    "quadrant": "datastores",
+    "isNew": "FALSE",
+    "description": "Relational database"
+  },
+  {
+    "name": "Terraform",
+    "ring": "adopt",
+    "quadrant": "products and tools",
+    "isNew": "FALSE",
+    "description": "Infrastructure as code tool"
+  },
+  {
+    "name": "Mistral AI",
+    "ring": "trial",
+    "quadrant": "products and tools",
+    "isNew": "TRUE",
+    "description": "Open-source LLM"
+  },
+  {
+    "name": "LLAMA",
+    "ring": "trial",
+    "quadrant": "products and tools",
+    "isNew": "TRUE",
+    "description": "Open-source LLM"
+  },
+  {
+    "name": "RunPod",
+    "ring": "trial",
+    "quadrant": "infrastructure",
+    "isNew": "TRUE",
+    "description": "On-demand GPU compute service"
+  },
+  {
+    "name": "AWS SQS",
+    "ring": "trial",
+    "quadrant": "infrastructure",
+    "isNew": "FALSE",
+    "description": "Message queuing service"
+  },
+  {
+    "name": "RedPanda",
+    "ring": "trial",
+    "quadrant": "infrastructure",
+    "isNew": "TRUE",
+    "description": "Kafka-compatible platform"
+  },
+  {
+    "name": "Pulumi",
+    "ring": "trial",
+    "quadrant": "products and tools",
+    "isNew": "TRUE",
+    "description": "Infrastructure as code tool"
+  },
+  {
+    "name": "Kotlin Multiplatform",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Cross-platform development tool"
+  },
+  {
+    "name": "Flink",
+    "ring": "assess",
+    "quadrant": "infrastructure",
+    "isNew": "TRUE",
+    "description": "Stream processing framework"
+  },
+  {
+    "name": "Grafana Loki",
+    "ring": "assess",
+    "quadrant": "products and tools",
+    "isNew": "TRUE",
+    "description": "Log aggregation system"
+  },
+  {
+    "name": "Swift",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Programming language for iOS"
+  },
+  {
+    "name": "BERT (Sentence Transformers)",
+    "ring": "adopt",
+    "quadrant": "products and tools",
+    "isNew": "TRUE",
+    "description": "NLP embedding tool"
+  },
+  {
+    "name": "ClickHouse",
+    "ring": "adopt",
+    "quadrant": "datastores",
+    "isNew": "TRUE",
+    "description": "Analytical database"
+  },
+  {
+    "name": "GitHub Actions",
+    "ring": "adopt",
+    "quadrant": "products and tools",
+    "isNew": "TRUE",
+    "description": "CI/CD automation tool"
+  },
+  {
+    "name": "GitLab CI",
+    "ring": "adopt",
+    "quadrant": "products and tools",
+    "isNew": "TRUE",
+    "description": "CI/CD automation tool"
+  },
+  {
+    "name": "Helm",
+    "ring": "adopt",
+    "quadrant": "products and tools",
+    "isNew": "TRUE",
+    "description": "Kubernetes package manager"
+  },
+  {
+    "name": "Hazelcast",
+    "ring": "hold",
+    "quadrant": "datastores",
+    "isNew": "FALSE",
+    "description": "In-memory data grid"
+  },
+  {
+    "name": "Coralogix",
+    "ring": "hold",
+    "quadrant": "products and tools",
+    "isNew": "FALSE",
+    "description": "Logging platform"
+  },
+  {
+    "name": "AWS Kinesis",
+    "ring": "hold",
+    "quadrant": "infrastructure",
+    "isNew": "FALSE",
+    "description": "Real-time data streaming"
+  },
+  {
+    "name": "Zookeeper",
+    "ring": "hold",
+    "quadrant": "infrastructure",
+    "isNew": "FALSE",
+    "description": "Distributed coordination service"
+  },
+  {
+    "name": "Cassandra",
+    "ring": "hold",
+    "quadrant": "datastores",
+    "isNew": "FALSE",
+    "description": "Distributed NoSQL database"
+  },
+  {
+    "name": "Flask",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Python micro-framework"
+  },
+  {
+    "name": "Angular",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "JavaScript web framework"
+  }
+]
